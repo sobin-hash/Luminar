@@ -1,0 +1,97 @@
+
+.header {
+  background-color: #1877F2;
+  position: relative;
+
+  height: 75px;
+}
+#fbheading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    
+    color: white;
+    position: relative;
+    top: 23px;
+    left: 5px;
+    font-size: 30px;
+}
+#inputbox{
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+    color: wheat;
+}
+#label1{
+    position: absolute;
+    right: 57px;
+    bottom: 22px;
+
+}
+#check{
+    position: absolute;
+    right: 274px;
+    bottom: 22px
+}
+.body-sec{
+    background-image: url("./Assets/facebook_login2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 680px;
+    background-color: beige;
+    color: blue;
+    
+}
+#text{
+    position: relative;
+    top: 60px;
+    left: 10px;
+    font-size:x-large;
+    
+
+}
+#text2{
+    position: absolute;
+    top: 88px;
+    right: 231px;
+    font-size:x-large;
+    
+
+}
+#text1{
+    position: absolute;
+    top: 62px;
+    right: 440px;
+    font-size:x-large;
+    
+
+}
+.input{
+    position: absolute;
+    right: 160px;
+    top: 60px;
+
+}
+td{
+    text-align: right;
+}
+#write{
+    padding-bottom: 15px;
+    position: relative;
+    left: 176px;
+    
+    
+}
+#bottomline{
+    position: relative;
+    top: 170px;
+    right: -100px;
+}
+
+/* table{
+    position: relative;
+} */
+#selectmonth{
+    position: relative;
+    left: 39px;
+}
